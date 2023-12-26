@@ -1,4 +1,4 @@
-# Django Notifications Project
+# Django Notifications POC
 
 This Django project implements a simple notification system that allows sending notifications to users via email. It includes a basic user interface to view notifications.
 
@@ -32,8 +32,8 @@ The project has the following structure:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your_username/django-notifications-project.git
-    cd django-notifications-project
+    git clone https://github.com/your_username/Django-notifications_POC.git
+    cd Django-notifications_POC
     ```
 
 2. **Create a virtual environment:**
